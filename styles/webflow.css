@@ -9,12 +9,16 @@
 
 .primary-color{
     color: #4E47FF;
-    font-size: 34px;
+    font-size: 60px;
     font-weight: 800;
 }
 
 .secondary-color{
     color: #252432;
+}
+
+.bg-color{
+    background-color: rgba(78, 71, 255, 0.1)
 }
 
 .primary-btn{
@@ -72,4 +76,21 @@ h1{
 
 .img-mini-wc-radius{
     border-radius: 48px;
+}
+
+.productive-user-section{
+    text-align: center;
+    margin: 100px;
+    padding: 80px 150px;
+    border-radius: 20px;
+}
+
+.productive-user-items{
+    display: flex;
+    justify-content: space-between;
+}
+
+.productive-user-subtitle{
+    font-size: small;
+    color: rgb(0,0,0,50%);
 }
