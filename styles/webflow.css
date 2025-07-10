@@ -13,7 +13,11 @@
     font-weight: 800;
 }
 
-.btn-color{
+.secondary-color{
+    color: #252432;
+}
+
+.primary-btn{
     color: white;
     background-color: #4E47FF;
     font-size: 12px;
@@ -47,5 +51,25 @@ nav{
 
 h1{
     font-size: 65px;
-    color: #252432;
+}
+
+/*action section*/
+
+.action-section{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px;
+
+}
+
+.action-title{
+    font-size: 42px;
+}
+
+.action-subtitle{
+    color: rgba(37, 36, 50, 0.5);
+}
+
+.img-mini-wc-radius{
+    border-radius: 48px;
 }
