@@ -57,6 +57,7 @@ nav{
     width: 1140px;
     height: 151px;
     padding-bottom: 90px;
+    margin: 0px auto;
 }
 
 .banner{
@@ -65,6 +66,7 @@ nav{
     align-items: center;
     text-align: center;
     padding-bottom: 125px;
+    margin: 0px auto;
 }
 
 h1{
@@ -81,7 +83,7 @@ main{
     display: flex;
     justify-content: space-between;
     margin: 0px 100px;
-    padding: 100px;
+    padding-top: 100px;
 }
 
 .action-title{
@@ -134,7 +136,7 @@ main{
 .card{
     background-color: white;
     border-radius: 15px;
-    padding: 10px 20px;
+    padding: 20px 20px;
 }
 
 .reviewer-display{
